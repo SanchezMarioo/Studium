@@ -1,5 +1,5 @@
 import React from 'react';
-import { Brain, Menu, X, Moon, Sun, Link } from 'lucide-react';
+import { Brain, Menu, X, Moon, Sun } from 'lucide-react';
 import { useState } from 'react';
 import { useTheme } from '../context/ThemeContext';
 
